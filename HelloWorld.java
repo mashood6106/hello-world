@@ -5,6 +5,6 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Hello, World");
     System.out.println("nexus");
-    System.out.println("sonarqube");
+    System.out.println("devops");
   }
 }
