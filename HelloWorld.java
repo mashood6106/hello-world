@@ -4,7 +4,7 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Hello, World");
     System.out.println("Hello, World");
-    System.out.println("devops");
-    System.out.println("linux");
+    System.out.println("jenkins");
+    System.out.println("maven");
   }
 }
